@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">简历</string>
+    <string name="action_settings">设置</string>
+    <string name="action_save">保存</string>
+    <string name="action_delete">删除</string>
+
     <string name="section_education">教育经历</string>
+    <string name="section_experience">工作经验</string>
+    <string name="section_projects">项目</string>
+
+    <string name="user_picture">头像</string>
+    <string name="choose_user_picture">请选择你的头像</string>
+
+    <string name="basic_info_edit_email_hint">你的邮箱</string>
+    <string name="basic_info_edit_name_hint">你的姓名</string>
+
+    <string name="add_education">添加教育经历</string>
+    <string name="add_experience">添加工作经历</string>
+    <string name="add_project">添加项目</string>
+
+    <string name="edit_education">修改教育经历</string>
+    <string name="edit_experience">修改工作经历</string>
+    <string name="edit_project">修改项目</string>
+
+    <string name="start_date">开始日期</string>
+    <string name="end_date">结束日期</string>
+    <string name="experience_edit_what_did_you_do_hint">你做了什么</string>
+    <string name="experience_edit_title_hint">职位</string>
+    <string name="experience_edit_company_hint">公司</string>
+    <string name="education_edit_school_hint">学校</string>
+    <string name="education_edit_major_hint">专业</string>
+    <string name="education_edit_courses_hint">课程</string>
+    <string name="project_edit_name_hint">项目</string>
+    <string name="project_edit_details_hint">项目细节</string>
+
 </resources>
